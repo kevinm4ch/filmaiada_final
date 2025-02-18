@@ -35,11 +35,11 @@ class MainDrawer extends StatelessWidget {
                     ),
                   ],
                 ),
-                const Row(
+                Row(
                   spacing: 10,
                   children: [
                     UserProfileImage(),
-                    Text(/*user!.displayName ??*/ 'Anonimo'),
+                    Text(user == null ? 'Anonimo' : user.displayName!),
                   ],                 
                 )
               ],
