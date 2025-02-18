@@ -34,6 +34,7 @@ class _UserProfileImageState extends State<UserProfileImage> {
               _takePicture(auth);
             },
             child: CircleAvatar(
+              minRadius: 30,
               backgroundColor: Theme.of(context).primaryColor,
               child: const Icon(Icons.person),
             ),
@@ -43,8 +44,8 @@ class _UserProfileImageState extends State<UserProfileImage> {
         return ClipOval(
             child: Image.file(
               auth.image!, // URL da imagem
-              width: 100,
-              height: 100,
+              width: 60,
+              height: 60,
               fit: BoxFit.cover,
             ),
           );

@@ -7,7 +7,7 @@ import 'package:google_sign_in/google_sign_in.dart';
 class AppAuthProvider extends ChangeNotifier {
   bool _isSigningIn = false;
   String? _error;
-  File? _image = File('assets/qmario.jpeg');
+  File? _image;
 
   File? get image => _image;
 
