@@ -1,0 +1,19 @@
+{
+    "movies": [
+        {
+            "id": 1,
+            "title": "A Origem",
+            "releaseYear": "2010",
+            "posterUrl": "https://upload.wikimedia.org/wikipedia/pt/8/84/AOrigemPoster.jpg",
+            "duration": 148,
+            "director": "Christopher Nolan",
+            "movieStars": [
+                "Leonardo DiCaprio",
+                "Joseph Gordon-Levitt",
+                "Elliot Page"
+            ],
+            "averageRating": 8.8,
+            "synopsis": "Um ladrão que invade os sonhos das pessoas é desafiado a implantar uma ideia em vez de roubá-la."
+        }
+    ]
+}

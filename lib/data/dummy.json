@@ -1,0 +1,293 @@
+{
+    "movies": [
+        {
+            "id": 1,
+            "title": "A Origem",
+            "releaseYear": "2010",
+            "posterUrl": "https://upload.wikimedia.org/wikipedia/pt/8/84/AOrigemPoster.jpg",
+            "duration": 148,
+            "director": "Christopher Nolan",
+            "movieStars": [
+                "Leonardo DiCaprio",
+                "Joseph Gordon-Levitt",
+                "Elliot Page"
+            ],
+            "averageRating": 8.8,
+            "synopsis": "Um ladrão que invade os sonhos das pessoas é desafiado a implantar uma ideia em vez de roubá-la."
+        },
+        {
+            "id": 2,
+            "title": "Vingadores: Ultimato",
+            "releaseYear": "2019",
+            "posterUrl": "ultimato.jpg",
+            "duration": 181,
+            "director": "Anthony e Joe Russo",
+            "movieStars": [
+                "Robert Downey Jr.",
+                "Chris Evans",
+                "Mark Ruffalo"
+            ],
+            "averageRating": 8.4,
+            "synopsis": "Os Vingadores restantes unem forças para reverter os danos causados por Thanos e restaurar o universo."
+        },
+        {
+            "id": 3,
+            "title": "Parasita",
+            "releaseYear": "2019",
+            "posterUrl": "parasita.png",
+            "duration": 132,
+            "director": "Bong Joon-ho",
+            "movieStars": [
+                "Song Kang-ho",
+                "Lee Sun-kyun",
+                "Cho Yeo-jeong"
+            ],
+            "averageRating": 8.6,
+            "synopsis": "Uma família pobre se infiltra na casa de uma família rica, levando a um confronto inesperado."
+        },
+        {
+            "id": 4,
+            "title": "O Senhor dos Anéis: O Retorno do Rei",
+            "releaseYear": "2003",
+            "posterUrl": "lotr.jpg",
+            "duration": 201,
+            "director": "Peter Jackson",
+            "movieStars": [
+                "Elijah Wood",
+                "Ian McKellen",
+                "Viggo Mortensen"
+            ],
+            "averageRating": 9.0,
+            "synopsis": "Frodo e Sam continuam sua jornada para destruir o Um Anel enquanto a guerra pela Terra Média atinge seu clímax."
+        },
+        {
+            "id": 5,
+            "title": "Matrix",
+            "releaseYear": "1999",
+            "posterUrl": "matrix.jpg",
+            "duration": 136,
+            "director": "Lana e Lilly Wachowski",
+            "movieStars": [
+                "Keanu Reeves",
+                "Laurence Fishburne",
+                "Carrie-Anne Moss"
+            ],
+            "averageRating": 8.7,
+            "synopsis": "Um hacker descobre que sua realidade é uma simulação e embarca em uma luta contra seus criadores."
+        },
+        {
+            "id": 6,
+            "title": "Coringa",
+            "releaseYear": "2019",
+            "posterUrl": "joker.jpg",
+            "duration": 122,
+            "director": "Todd Phillips",
+            "movieStars": [
+                "Joaquin Phoenix",
+                "Robert De Niro",
+                "Zazie Beetz"
+            ],
+            "averageRating": 8.4,
+            "synopsis": "A jornada de um comediante fracassado que se transforma em um dos vilões mais icônicos da cultura pop."
+        },
+        {
+            "id": 7,
+            "title": "Titanic",
+            "releaseYear": "1997",
+            "posterUrl": "titanic.jpg",
+            "duration": 195,
+            "director": "James Cameron",
+            "movieStars": [
+                "Leonardo DiCaprio",
+                "Kate Winslet"
+            ],
+            "averageRating": 7.8,
+            "synopsis": "Um romance épico que floresce a bordo do infame navio Titanic durante sua viagem trágica."
+        },
+        {
+            "id": 8,
+            "title": "O Cavaleiro das Trevas",
+            "releaseYear": "2008",
+            "posterUrl": "darkknight.jpg",
+            "duration": 152,
+            "director": "Christopher Nolan",
+            "movieStars": [
+                "Christian Bale",
+                "Heath Ledger",
+                "Aaron Eckhart"
+            ],
+            "averageRating": 9.0,
+            "synopsis": "Batman enfrenta o Coringa, um criminoso caótico que ameaça mergulhar Gotham no caos."
+        },
+        {
+            "id": 9,
+            "title": "Pulp Fiction",
+            "releaseYear": "1994",
+            "posterUrl": "pulpfiction.jpg",
+            "duration": 154,
+            "director": "Quentin Tarantino",
+            "movieStars": [
+                "John Travolta",
+                "Uma Thurman",
+                "Samuel L. Jackson"
+            ],
+            "averageRating": 8.9,
+            "synopsis": "Histórias entrelaçadas de crime e redenção na Los Angeles dos anos 90."
+        },
+        {
+            "id": 10,
+            "title": "Gladiador",
+            "releaseYear": "2000",
+            "posterUrl": "gladiator.jpg",
+            "duration": 155,
+            "director": "Ridley Scott",
+            "movieStars": [
+                "Russell Crowe",
+                "Joaquin Phoenix",
+                "Connie Nielsen"
+            ],
+            "averageRating": 8.5,
+            "synopsis": "Um general romano busca vingança após ser traído e perder sua família."
+        },
+        {
+            "id": 11,
+            "title": "V de Vingança",
+            "releaseYear": "2005",
+            "posterUrl": "vforvendetta.jpg",
+            "duration": 132,
+            "director": "James McTeigue",
+            "movieStars": [
+                "Natalie Portman",
+                "Hugo Weaving"
+            ],
+            "averageRating": 8.2,
+            "synopsis": "Um vigilante mascarado luta contra um governo opressor em uma sociedade distópica."
+        },
+        {
+            "id": 12,
+            "title": "Homem de Ferro",
+            "releaseYear": "2008",
+            "posterUrl": "ironman.jpg",
+            "duration": 126,
+            "director": "Jon Favreau",
+            "movieStars": [
+                "Robert Downey Jr.",
+                "Gwyneth Paltrow"
+            ],
+            "averageRating": 7.9,
+            "synopsis": "Tony Stark cria uma armadura poderosa para salvar sua vida e se torna o super-herói Homem de Ferro."
+        },
+        {
+            "id": 13,
+            "title": "O Resgate do Soldado Ryan",
+            "releaseYear": "1998",
+            "posterUrl": "savingprivateryan.jpg",
+            "duration": 169,
+            "director": "Steven Spielberg",
+            "movieStars": [
+                "Tom Hanks",
+                "Matt Damon"
+            ],
+            "averageRating": 8.6,
+            "synopsis": "Durante a Segunda Guerra Mundial, um grupo de soldados é enviado para resgatar um paraquedista preso atrás das linhas inimigas."
+        },
+        {
+            "id": 14,
+            "title": "Os Incríveis",
+            "releaseYear": "2004",
+            "posterUrl": "incredibles.jpg",
+            "duration": 115,
+            "director": "Brad Bird",
+            "movieStars": [
+                "Craig T. Nelson",
+                "Holly Hunter"
+            ],
+            "averageRating": 8.0,
+            "synopsis": "Uma família de super-heróis aposentados precisa voltar à ação para salvar o mundo."
+        },
+        {
+            "id": 15,
+            "title": "Toy Story",
+            "releaseYear": "1995",
+            "posterUrl": "toystory.jpg",
+            "duration": 81,
+            "director": "John Lasseter",
+            "movieStars": [
+                "Tom Hanks",
+                "Tim Allen"
+            ],
+            "averageRating": 8.3,
+            "synopsis": "Os brinquedos de um menino ganham vida e enfrentam desafios quando um novo brinquedo chega."
+        },
+        {
+            "id": 16,
+            "title": "Avatar",
+            "releaseYear": "2009",
+            "posterUrl": "avatar.jpg",
+            "duration": 162,
+            "director": "James Cameron",
+            "movieStars": [
+                "Sam Worthington",
+                "Zoe Saldana"
+            ],
+            "averageRating": 7.8,
+            "synopsis": "Um ex-soldado embarca em uma jornada épica em um mundo alienígena chamado Pandora."
+        },
+        {
+            "id": 17,
+            "title": "Interestelar",
+            "releaseYear": "2014",
+            "posterUrl": "interstellar.jpg",
+            "duration": 169,
+            "director": "Christopher Nolan",
+            "movieStars": [
+                "Matthew McConaughey",
+                "Anne Hathaway"
+            ],
+            "averageRating": 8.6,
+            "synopsis": "Um grupo de astronautas viaja por um buraco de minhoca para salvar a humanidade."
+        },
+        {
+            "id": 18,
+            "title": "Clube da Luta",
+            "releaseYear": "1999",
+            "posterUrl": "fightclub.jpg",
+            "duration": 139,
+            "director": "David Fincher",
+            "movieStars": [
+                "Brad Pitt",
+                "Edward Norton"
+            ],
+            "averageRating": 8.8,
+            "synopsis": "Um homem insatisfeito com sua vida encontra um carismático vendedor de sabonetes, e juntos fundam um clube de luta clandestino."
+        },
+        {
+            "id": 19,
+            "title": "Cisne Negro",
+            "releaseYear": "2010",
+            "posterUrl": "blackswans.jpg",
+            "duration": 108,
+            "director": "Darren Aronofsky",
+            "movieStars": [
+                "Natalie Portman",
+                "Mila Kunis"
+            ],
+            "averageRating": 8.0,
+            "synopsis": "Uma bailarina busca a perfeição para interpretar dois papéis em 'O Lago dos Cisnes', mas é consumida pela pressão."
+        },
+        {
+            "id": 20,
+            "title": "Forrest Gump",
+            "releaseYear": "1994",
+            "posterUrl": "forrestgump.jpg",
+            "duration": 142,
+            "director": "Robert Zemeckis",
+            "movieStars": [
+                "Tom Hanks",
+                "Robin Wright"
+            ],
+            "averageRating": 8.8,
+            "synopsis": "Um homem com um coração puro vive momentos extraordinários enquanto narra sua incrível jornada de vida."
+        }
+    ]
+}
